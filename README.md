@@ -180,10 +180,6 @@ Todas as rotas de criação e atualização são validadas com Zod tanto no fron
   - preco (obrigatório, deve ser positivo)
   - estoque (obrigatório, inteiro, mínimo 0)
 
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins acadêmicos.
-
 ## 👤 Autor
 
-Desenvolvido como projeto final da faculdade.
+Luis Fernando M. Baltar e João Pedro M. Baltar
